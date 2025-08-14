@@ -2,8 +2,6 @@
 
 import { useState } from 'react';
 
-
-
 const categoriesData = {
   Individual: {
     RI: { progress1: 85, progress2: 70 },

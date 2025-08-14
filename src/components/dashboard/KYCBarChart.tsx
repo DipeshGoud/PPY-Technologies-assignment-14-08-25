@@ -1,7 +1,5 @@
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, ResponsiveContainer } from 'recharts';
 
-
-
 const data = [
   {
     name: 'Individual',
